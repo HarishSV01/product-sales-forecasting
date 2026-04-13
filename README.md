@@ -1,3 +1,10 @@
+# Product Sales Forecasting
 
-# product-sales-forecasting
-End-to-end product sales forecasting project using time series and machine learning techniques to support business decisions in retail (inventory, promotions, demand planning).
+End-to-end time series forecasting project to predict retail sales using machine learning and statistical models.
+
+## Project Structure
+- notebooks/ → EDA and modeling
+- data/ → dataset
+- models/ → saved models
+- app/ → Flask deployment
+- images/ → charts and visuals
